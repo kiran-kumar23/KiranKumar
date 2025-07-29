@@ -1,3 +1,14 @@
+h1 align="center">Hi 👋, I'm Kiran Kumar Kore</h1>
+<h3 align="center">A passionate software developer from India</h3>
+
+- 🔭 I’m currently working on [Travel Booking Web Application](https://github.com/kiran-kumar23/travel-booking-webapp)
+
+- 👨‍💻 All of my projects are available at [https://github.com/kiran-kumar23?tab=repositories](https://github.com/kiran-kumar23?tab=repositories)
+
+- 💬 Ask me about **my University and work experience!**
+
+- ⚡ Fun fact **Learning New Things with passion**
+
 <h3 align="left">Languages and Tools:</h3>
 
 <!-- Programming Languages -->
